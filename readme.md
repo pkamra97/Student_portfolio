@@ -6,5 +6,5 @@ things that i know till now
 1. Java script
 1. node js
 1. Replit
-1. Chalk libraray
+1. Chalk library
 1. github 
